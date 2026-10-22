@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+cache/
+*.log
+paper/*.aux
+paper/*.log
+paper/*.out
+paper/*.bbl
+paper/*.blg
+Midterm1_overleaf.zip

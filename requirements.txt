@@ -1,0 +1,9 @@
+geopandas==1.2.0
+matplotlib==3.11.2
+networkx==3.7
+numpy==2.5.4
+osmnx==2.1.1
+pandas==3.0.6
+pytest==9.1.1
+shapely==2.2.0
+tiktoken==0.14.0
