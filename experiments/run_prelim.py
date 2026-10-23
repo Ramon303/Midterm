@@ -1,6 +1,6 @@
 """Experimento preliminar (M1/M2): consultas fijas con semilla, cuatro métodos, sin LLM.
 Mide tokens, tiempo, memoria, validez, ρ y determinismo. Salida: results/*.csv y figuras.
-Uso: python experiments/run_prelim.py [--quick]"""
+Uso: python experiments/run_prelim.py [--quick]""" 
 import csv
 import hashlib
 import random
